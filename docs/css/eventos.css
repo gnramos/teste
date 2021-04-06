@@ -1,0 +1,22 @@
+/**
+ * CSS para exibição de estatísticas dos eventos da Maratona de Programação SBC.
+ *
+ * @link   http://www.github.com/gnramos/maratona-site
+ * @author Guilherme N. Ramos.
+ */
+
+.site-header {}
+.card-header {
+  font-weight: bold;
+  text-align: center;
+}
+.card-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+.contestant {}
+.male {/*background-color: LightCyan*/}
+.female {/*background-color: LavenderBlush*/}
+.coach {font-style: italic; /*background-color: LightGreen*/}
